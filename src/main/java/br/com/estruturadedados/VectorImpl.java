@@ -1,4 +1,4 @@
-package br.com.fernando.vector;
+package br.com.estruturadedados;
 
 import java.util.ArrayList;
 import java.util.Iterator;
