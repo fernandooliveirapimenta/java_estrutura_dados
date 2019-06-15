@@ -9,6 +9,7 @@ public class FilaImpl {
 
         Queue fila = new ArrayBlockingQueue(5);
 
+        Object j ;
         fila.add("A");
         fila.add("C");
         fila.add("D");
